@@ -12,7 +12,8 @@ public enum Date_part
     YEAR,
     Month,
     DAY,
-    Hour
+    Hour,
+    Minute
 }
 
 public partial class UserDefinedFunctions
