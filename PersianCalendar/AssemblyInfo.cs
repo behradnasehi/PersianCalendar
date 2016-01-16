@@ -180,5 +180,4 @@ public partial class UserDefinedFunctions
             return false;
         }
     }
-
 }
